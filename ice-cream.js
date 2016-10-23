@@ -9,3 +9,6 @@ iceCreamFlavours.push("root beer");
 console.log(iceCreamFlavours);
 
 console.log(iceCreamFlavours[0]);
+
+console.log(iceCreamFlavours[5]);
+
